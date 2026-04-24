@@ -1,3 +1,5 @@
+FOOD DELIVERY APP
+
 CLASE:
 - User (Abstract): String nume, String telefon, String email, String parola;
 - Admin implements User;
